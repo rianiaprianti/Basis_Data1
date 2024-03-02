@@ -1,0 +1,6 @@
+Pertemuan pertama
+// query ini untuk melihat database 
+SHOW DATABASE;
+
+membuat database
+CREATE DATABASE ti05;
